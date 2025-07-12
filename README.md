@@ -1,4 +1,19 @@
-<h2 align="left">Hi 👋! My name is Md Hasnain Alam, and I'm a full-stack web developer</h2>
+<h2 align="left">👋 Hi there!
+I'm Md Hasnain Alam, a 💻 Full-Stack Web Developer passionate about building complete web solutions from frontend 🖥️ to backend 🗄️.
+
+I enjoy working with:
+
+⚛️ Modern JavaScript frameworks (React, next.js, etc.)
+
+🧱 Backend technologies (Node.js, Express)
+
+🗃️ Databases (MongoDB, MySQL)
+
+🎨 Responsive UI/UX design
+
+🚀 Clean, scalable code and real-world problem-solving
+
+Always learning 📚 | Always building 🛠️ | Always improving 🌱</h2>
 
 ###
 
