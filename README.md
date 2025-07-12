@@ -3,7 +3,7 @@ I'm Md Hasnain Alam, a 💻 Full-Stack Web Developer passionate about building c
 
 I enjoy working with:
 
-⚛️ Modern JavaScript frameworks (React, next.js, etc.)
+⚛️ Modern JavaScript frameworks (React, etc.)
 
 🧱 Backend technologies (Node.js, Express)
 
